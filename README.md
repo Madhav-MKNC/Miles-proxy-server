@@ -1,2 +1,2 @@
 # Miles-proxy-server
-repl.it proxy server for &lt;a href="https://github.com/madhav-mknc/miles-lite">Miles&lt;/a>: chrome extension.
+repl.it proxy server for <a href="https://github.com/madhav-mknc/miles-lite">Miles: chrome extension</a>
